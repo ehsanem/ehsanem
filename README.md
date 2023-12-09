@@ -1,6 +1,6 @@
 👋 Hi, I’m Ehsan
 
-👀 I’m fullstack developer and product manager with a focus on the frontend. Usually, I work with local version controls and that's the reason why my activity log is look like this! 
+👀 I’m fullstack developer and product manager with a focus on the frontend. Usually, I work with local version controls and that's the reason why my activity log has delay! 
 
 📫 How to reach me is simply by Email
 
